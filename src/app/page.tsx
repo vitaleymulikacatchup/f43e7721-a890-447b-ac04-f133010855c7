@@ -49,7 +49,7 @@ export default function Home() {
               href: "products"
             }
           ]}
-          imageSrc="https://images.pexels.com/photos/34398760/pexels-photo-34398760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1761497886394-sehbfba8.jpg"
           imageAlt="Delicious chocolate cake slice"
         />
       </div>
